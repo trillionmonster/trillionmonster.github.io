@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## 星河的G站
 
-You can use the [editor on GitHub](https://github.com/trillionmonster/trillionmonster.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+本站记录星河同学在工作中的积累的trick和项目思路
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
